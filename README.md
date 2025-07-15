@@ -1,62 +1,41 @@
-# DanK-Pay
-Solana-based QR payment &amp; rewards platform for cannabis retail
-# DanK Pay 💵🌿
+# DanK Pay
 
-**DanK Pay** is a Solana-based QR payment system and rewards platform built for legal cannabis dispensaries. Customers pay using `$DANK`, a utility token designed for fast, low-fee purchases — and dispensaries receive USD directly in their bank accounts without touching crypto.
+**Solana-based QR payment & rewards platform for cannabis retail**
 
----
+DanK Pay allows dispensaries to accept fast, low-fee, and secure crypto payments using a utility token called **DanKBud** (`$DKBUD`). It is designed to remove the need for cash, reduce transaction friction, and offer rewards within the cannabis ecosystem.
 
-## 🚀 What It Solves
+## 🔄 How It Works
 
-- Cannabis businesses can’t access traditional banking and card processors
-- Customers deal with ATM fees and cash-only transactions
-- No loyalty, rewards, or fast checkout system exists for dispensaries
+- Customers use a mobile app to scan a QR code and pay in `$DKBUD`
+- The dispensary receives payment instantly and can auto-convert to fiat
+- Loyalty and rewards are issued in `$DKBUD`
+- Open-source system built on Solana for real-world utility
 
----
+## 💰 Token Details
 
-## 💡 How DanK Pay Works
+- **Token Name:** DanKBud
+- **Ticker:** `$DKBUD`
+- **Supply:** 1,000,000,000 (deflationary)
+- **Utility:** Payments, rewards, and staking
 
-1. Customer scans a QR code with their DanK Pay mobile wallet  
-2. Pays instantly in `$DANK` (an SPL token on Solana)  
-3. DanK Pay auto-swaps to USDC and deposits **USD into the dispensary’s bank account**  
-4. Customer earns $DANK back as rewards  
+## 📍 Why DanK Pay?
 
-> No crypto confusion. No cash handling. Just smooth payments.
+- Cannabis retailers are largely cash-only due to federal banking restrictions
+- Reduces reliance on ATMs, handling of physical cash, and transaction delays
+- Built on Solana: fast, scalable, and nearly free to use
 
----
+## 📂 Repository
 
-## 🔗 Grant Proposal (PDF)
+This repository contains:
+- Grant proposal materials
+- Documentation for setup and usage
+- Future UI mockups and contract details
 
-📄 [Download DanK Pay Grant Proposal](./DanK_Pay_Solana_Grant_Proposal.pdf)
+## 🌐 Links
 
----
-
-## ⚙️ Built With
-
-- Solana Pay
-- SPL Tokens
-- Jupiter DEX (for swapping)
-- Transak / Ramp (for off-ramping to USD)
-- Phantom Wallet
+- GitHub: [DanK Pay](https://github.com/hicountrychris/DanK-Pay)
+- Contact: dankpay@protonmail.com
 
 ---
 
-## 📍 Pilot Launch
-
-Launching in Colorado with dispensaries as our first test market. Want to participate? DM or open an issue.
-
----
-
-## 🧠 Token Model
-
-- `$DANK` is a **utility token**, not a speculative asset  
-- Used only for payments, rewards, and merchant staking  
-- Deflationary model with a small burn on each transaction
-
----
-
-## 🙌 Contact
-
-📬 Email: dankpay@protonmail.com  
-🐦 Twitter: [@dankpayapp](https://twitter.com/dankpayapp) *(optional — you can add this later)*  
-🌐 Website: Coming soon
+**DanK Pay — Swap your $DKBUDs for buds.**
