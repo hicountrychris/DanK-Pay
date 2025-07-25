@@ -1,0 +1,55 @@
+# DanKPay
+
+**Swap UR $DKBUDS for Buds.**  
+A Solana-powered QR payment system for cannabis dispensaries — no cash, no banks, no problem.
+
+---
+
+## 🔗 Live Demo
+🌐 [DanKPay Landing Page](https://dan-k-pay.vercel.app)
+
+---
+
+## 📱 What Is DanKPay?
+
+DanKPay is a full-service blockchain payment system using a utility token ($DKBUD) on the Solana blockchain.  
+It enables legal cannabis dispensaries to accept payments via QR code, Phantom wallet, and instant settlement — without needing cash or traditional banks.
+
+---
+
+## 🛠 Features
+
+- 🧾 QR Code Payment Generator (POS)
+- 📲 Mobile App (Phantom Wallet integrated)
+- ⚡ $DKBUD token on Solana (Devnet for now)
+- 🔁 Instant swap to $USDC + deposit to bank
+- 🧪 Built for pilot testing in Colorado
+
+---
+
+## 💼 Legal & Docs
+
+- 📄 [Terms & Conditions (PDF)](./docs/DanKPay_Terms_And_Conditions.pdf)
+- 🧠 [Executive Summary (PDF)](./docs/DanKPay_Executive_Summary.pdf)
+- 🛡 MIT License – Copyright © Christopher Castro
+
+---
+
+## 🖼 Branding
+
+![Powered by DanKPay](./docs/powered_by_dankpay.png)
+
+---
+
+## 🚧 Dev Mode
+
+This project is currently running on Solana **Devnet**.  
+We are preparing for Mainnet launch with liquidity, swap automation, and pilot deployment.
+
+---
+
+## 📬 Contact
+
+> Built by DanKPay LLC  
+> GitHub: [@hicountrychris](https://github.com/hicountrychris)  
+> Token Mint (Devnet): `G4YyeUAFPCDyNG2e3jQ3mC3EDDFRNw1ExP6J7PTY6LKC`
