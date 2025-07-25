@@ -1,0 +1,8 @@
+{
+    "name": "DanKBud",
+    "symbol": "DKBUD",
+    "description": "Utility token used for fast, low-fee cannabis dispensary payments via the DanKPay app.",
+    "image": "https://raw.githubusercontent.com/hicountrychris/dank-pay/main/assets/dankpay-logo.png",
+    "decimals": 6,
+    "website": "https://hicountrychris.github.io/dank-pay/"
+}
